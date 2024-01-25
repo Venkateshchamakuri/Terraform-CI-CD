@@ -4,7 +4,7 @@ sudo yum update -y
 sudo yum install -y httpd
 sudo systemctl enable httpd
 sudo service httpd start  
-sudo echo '<h1>Welcome to venky-Yogi - APP-1</h1>' | sudo tee /var/www/html/index.html
+sudo echo '<h1>Welcome to babu mentor-Yogi - APP-1</h1>' | sudo tee /var/www/html/index.html
 sudo mkdir /var/www/html/app1
 sudo echo '<!DOCTYPE html>   
 <html>   
@@ -53,7 +53,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> venky-Yogi APP Login </h1> </center>   
+    <center> <h1> babu mentor-Yogi APP Login </h1> </center>   
     <form>  
         <div class="container">   
             <label>Username : </label>   
