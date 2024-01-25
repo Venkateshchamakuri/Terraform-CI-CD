@@ -4,13 +4,13 @@ sudo yum update -y
 sudo yum install -y httpd
 sudo systemctl enable httpd
 sudo service httpd start  
-sudo echo '<h1>babu mentor</h1>' | sudo tee /var/www/html/index.html
+sudo echo '<h1>venky goutham </h1>' | sudo tee /var/www/html/index.html
 sudo mkdir /var/www/html/app1
 sudo echo '<!DOCTYPE html>   
 <html>   
 <head>  
 <meta name="viewport" content="width=device-width, initial-scale=1">  
-<title> mentor</title>  
+<title> goutham</title>  
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
@@ -53,7 +53,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> babumentor </h1> </center>   
+    <center> <h1> goutham </h1> </center>   
     <form>  
         <div class="container">   
             <label>Username : </label>   
