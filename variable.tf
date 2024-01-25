@@ -1,5 +1,5 @@
 
-#variable "mentor1235" {
+#variable "venkat143" {
 # description = "terraform_s3_bucket"
-# default     = "mentor1235" # Change this to your desired S3 bucket name
+# default     = "venkat143" # Change this to your desired S3 bucket name
 #}
